@@ -1,0 +1,16 @@
+{
+  "name": "weather",
+  "license": "MIT",
+  "repository": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "multer": "^1.3.0",
+    "node-fetch": "^1.7.2"
+  }
+}

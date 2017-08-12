@@ -1,0 +1,3 @@
+dispatch:
+  - url: '*/weather'
+    module: weather
